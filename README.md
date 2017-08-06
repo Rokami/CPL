@@ -11,4 +11,5 @@ compute text letter and pure vocabulary number
 ```Bash
 vi ~/.bashrc
 export PATH=$PATH:<path_to_CPL.pl>
+source ~/.bashrc
 ```
